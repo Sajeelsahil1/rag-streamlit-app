@@ -13,8 +13,8 @@ from llama_index.core import (
 from llama_index.vector_stores.faiss import FaissVectorStore
 from llama_index.core.prompts.prompts import SimpleInputPrompt
 
-# --- FIXED: use Gemini (correct for LlamaIndex 0.14.8) ---
-from llama_index.llms.gemini import Gemini
+#  Gemini import for LlamaIndex 0.14.8 ---
+from llama_index.llms.google_genai import GoogleGemini
 
 # Embeddings - Local CPU HuggingFace model
 from llama_index.embeddings.huggingface import HuggingFaceEmbedding
@@ -58,7 +58,7 @@ def create_chat_engine(_api_key, _uploaded_file):
 
     try:
         # 1. Set up the LLM (Gemini)
-        Settings.llm = Gemini(
+        Settings.llm = GoogleGemini(
             model="models/gemini-2.5-flash",
             api_key=_api_key
         )
