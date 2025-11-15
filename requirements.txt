@@ -1,0 +1,8 @@
+streamlit
+llama-index
+faiss-cpu
+pypdf
+llama-index-llms-google-genai
+llama-index-embeddings-google-genai
+llama-index-embeddings-huggingface
+sentence-transformers

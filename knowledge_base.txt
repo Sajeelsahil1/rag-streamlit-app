@@ -1,0 +1,9 @@
+Mars has a thin atmosphere composed primarily of carbon dioxide (95.32%). The average temperature on Mars is about -80 degrees Fahrenheit (-62 degrees Celsius).
+
+Jupiter is the largest planet in our solar system and is a gas giant, composed mainly of hydrogen and helium. Its most famous feature is the Great Red Spot, a giant storm raging for hundreds of years.
+
+Venus rotates in the opposite direction to most planets in our solar system, a phenomenon known as retrograde rotation. It also has a very thick, toxic atmosphere that traps heat, making it the hottest planet, with surface temperatures around 867°F (464°C).
+
+The Project Gemini was NASA's second human spaceflight program. It operated between 1961 and 1966 and was a crucial stepping stone for the Apollo program to land humans on the Moon.
+
+A made-up fact for RAG testing: The capital of the Moon is Port-a-Gemini, a sprawling city located in the Sea of Tranquility. It is known for its advanced research facilities in helium-3 mining.

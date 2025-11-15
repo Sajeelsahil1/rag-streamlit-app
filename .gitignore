@@ -1,0 +1,14 @@
+venv/
+__pycache__/
+*.pyc
+*.pkl
+*.db
+*.log
+.DS_Store
+
+# Streamlit cache
+.streamlit/
+
+# Model files
+*.bin
+*.safetensors
