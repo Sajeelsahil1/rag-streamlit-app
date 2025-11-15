@@ -10,7 +10,7 @@ from llama_index.core import (
     StorageContext,
     Settings
 )
-from llama_index.core.vector_stores.faiss import FaissVectorStore
+from llama_index.vector_stores.faiss import FaissVectorStore
 from llama_index.core.prompts.prompts import SimpleInputPrompt
 
 # --- FIXED: use Gemini (correct for LlamaIndex 0.14.8) ---
